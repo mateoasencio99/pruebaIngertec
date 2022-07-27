@@ -2,7 +2,7 @@
 <ul>
   <li> Repositorio creado para presentar la prueba técnica de <i>IngerTec</i> (posición de 'Full Stack Developer'). </li>
   <li> It contains both exercises required: <ul>
-    <li> Website with 5 images (with visits counter and description). </li>
+    <li> Sitio web con 5 imágenes (con contador de visitas y descripción). </li>
     <li> Script utilizado para crear la base de datos 'mateo27072022'.</li>
     </ul>
   </li>
