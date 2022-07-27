@@ -1,6 +1,6 @@
 <h1><b>Prueba Técnica Ingertec</b></h1>
 <ul>
-  <li> Repositorio creado para presentar la prueba técnica de <i>IngerTec</i> (posición de 'Full Stack Developerk'). </li>
+  <li> Repositorio creado para presentar la prueba técnica de <i>IngerTec</i> (posición de 'Full Stack Developer'). </li>
   <li> It contains both exercises required: <ul>
     <li> Website with 5 images (with visits counter and description). </li>
     <li> Script utilizado para crear la base de datos 'mateo27072022'.</li>
