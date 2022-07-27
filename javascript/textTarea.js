@@ -1,4 +1,4 @@
-/* console.log("holaa"); */
+
 
 document.querySelector('#textTareaButton').addEventListener('click', traerDato);
 const textarea = document.querySelector('#floatingTextarea2')
